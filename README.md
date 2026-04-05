@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
+| [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
