@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0052-n-queens-ii/) | Hard |
