@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
