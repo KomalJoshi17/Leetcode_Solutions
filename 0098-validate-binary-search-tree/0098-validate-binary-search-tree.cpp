@@ -11,26 +11,6 @@
  */
 class Solution {
 public:
-    // vector<int>array;
-    // vector<int> sorted(TreeNode* root){
-    //     if(root==nullptr) return {};
-    //     sorted(root->left);
-    //     array.push_back(root->val);
-    //     sorted(root->right);
-    //     return array;
-    // }
-
-    // bool isSorted(vector<int> &arr){
-    //     for(int i=0;i<arr.size()-1;i++){
-    //         if(arr[i]>=arr[i+1]) return false;
-    //     }
-    //     return true;
-    // }
-
-    // bool isValidBST(TreeNode* root) {
-    //     vector<int>arr=sorted(root);
-    //     return isSorted(arr);
-    // }
 
     bool validate(TreeNode* root,long long min, long long max){
         if(root==nullptr) return true;
