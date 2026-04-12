@@ -92,11 +92,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Search Tree
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
