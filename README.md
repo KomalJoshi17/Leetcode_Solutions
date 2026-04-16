@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
