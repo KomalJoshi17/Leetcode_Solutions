@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Math
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
