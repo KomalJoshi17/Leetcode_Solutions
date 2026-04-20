@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0120-triangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0120-triangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
