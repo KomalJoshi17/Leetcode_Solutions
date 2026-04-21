@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
