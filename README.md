@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
