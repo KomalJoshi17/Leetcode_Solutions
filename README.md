@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Dynamic Programming
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0044-wildcard-matching](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
+| [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
