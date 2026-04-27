@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0052-n-queens-ii/) | Hard |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
