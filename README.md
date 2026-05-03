@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
