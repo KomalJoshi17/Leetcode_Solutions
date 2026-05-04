@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0134-gas-station/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
