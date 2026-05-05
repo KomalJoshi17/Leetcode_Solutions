@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0068-text-justification/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
