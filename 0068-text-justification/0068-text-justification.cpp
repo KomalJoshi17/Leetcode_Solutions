@@ -3,33 +3,31 @@ public:
     vector<string> fullJustify(vector<string>& words, int maxWidth) {
         int n = words.size();
         vector<string> ans;
-        int i = 0; // pointer to traverse the words
+        int i = 0; 
 
         while (i < n) {
             int j = i;
             int lineLength = 0, totalChars = 0;
 
-            // Count how many words fit in the current line
             while (j < n && lineLength + words[j].length() + (j - i) <= maxWidth) {
-                lineLength += words[j].length(); // total characters from words
+                lineLength += words[j].length(); 
                 totalChars += words[j].length();
                 j++;
             }
 
-            int spaces = maxWidth - totalChars; // total spaces to distribute
-            int gaps = j - i - 1; // number of gaps between words
+            int spaces = maxWidth - totalChars; 
+            int gaps = j - i - 1; 
             string line = "";
 
-            if (j == n || gaps == 0) { // Last line or single word line
+            if (j == n || gaps == 0) { 
                 for (int k = i; k < j; k++) {
                     line += words[k];
-                    if (k != j - 1) line += " "; // add single space between words
+                    if (k != j - 1) line += " "; 
                 }
-                // Pad remaining spaces at the end
                 while (line.size() < maxWidth) line += " ";
             } else {
                 int spaceEach = spaces / gaps;
-                int extra = spaces % gaps; // extra spaces to distribute from left
+                int extra = spaces % gaps; 
 
                 for (int k = i; k < j; k++) {
                     line += words[k];
@@ -42,7 +40,7 @@ public:
             }
 
             ans.push_back(line);
-            i = j; // move to next line
+            i = j; 
         }
 
         return ans;
