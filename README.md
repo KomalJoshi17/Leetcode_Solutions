@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0155-min-stack/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +359,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
