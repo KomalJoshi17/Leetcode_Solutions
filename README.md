@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
