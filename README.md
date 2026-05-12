@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
