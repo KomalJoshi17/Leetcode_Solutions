@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Combinatorics
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
