@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0087-scramble-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0097-interleaving-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
