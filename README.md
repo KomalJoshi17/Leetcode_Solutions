@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -293,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Sliding Window
