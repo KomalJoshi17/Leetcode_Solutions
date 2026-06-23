@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
+| [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -287,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Sliding Window
