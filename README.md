@@ -436,4 +436,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
