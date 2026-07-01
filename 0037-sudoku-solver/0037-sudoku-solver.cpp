@@ -1,54 +1,63 @@
 class Solution {
 public:
-    void solveSudoku(vector<vector<char>>& board) {
-        int row[9]{}, col[9]{}, box[9]{};
-        vector<int> R, C, cc;
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
-                if (board[i][j] == '.') {
-                    R.push_back(i);
-                    C.push_back(j);
-                } else {
-                    int d = board[i][j] - '1', m = 1 << d, b = (i / 3) * 3 + j / 3;
-                    row[i] |= m; col[j] |= m; box[b] |= m;
-                }
+    bool safe(vector<vector<char>>& board, int r, int c, char ch){
+        // Row
+        for(int i = 0; i < 9; i++){
+            if(board[r][i] == ch)
+                return false;
+        }
+
+        // Column
+        for(int i = 0; i < 9; i++){
+            if(board[i][c] == ch)
+                return false;
+        }
+
+        // 3x3 Grid
+        int sr = (r / 3) * 3;
+        int sc = (c / 3) * 3;
+
+        for(int i = sr; i < sr + 3; i++){
+            for(int j = sc; j < sc + 3; j++){
+                if(board[i][j] == ch)
+                    return false;
             }
         }
-        cc.resize(R.size());
-        auto countBits = [&](int x) { int c = 0; while (x) { x &= x - 1; c++; } return c; };
-        function<int(int)> cand = [&](int idx) {
-            int r = R[idx], c = C[idx], b = (r / 3) * 3 + c / 3;
-            return countBits((~(row[r] | col[c] | box[b])) & 0x1ff);
-        };
-        auto recalc = [&]() {
-            for (int i = 0; i < (int)R.size(); i++) {
-                if (board[R[i]][C[i]] == '.') cc[i] = cand(i);
+        return true;
+    }
+
+    bool solve(vector<vector<char>>& board, int r, int c){
+        // Entire board completed
+        if(r == 9)
+            return true;
+
+        // Move to next row
+        if(c == 9)
+            return solve(board, r + 1, 0);
+
+        // Already filled
+        if(board[r][c] != '.'){
+            return solve(board, r, c + 1);
+        }
+
+        // Try digits 1 to 9
+        for(char ch = '1'; ch <= '9'; ch++){
+
+            if(safe(board, r, c, ch)){
+
+                board[r][c] = ch;
+
+                if(solve(board, r, c + 1))
+                    return true;
+
+                // Backtrack
+                board[r][c] = '.';
             }
-        };
-        for (int i = 0; i < (int)R.size(); i++) cc[i] = cand(i);
-        function<bool(int)> dfs = [&](int filled) {
-            if (filled == (int)R.size()) return true;
-            int best = -1, bc = 10;
-            for (int i = 0; i < (int)R.size(); i++) {
-                if (board[R[i]][C[i]] == '.' && cc[i] < bc) {
-                    bc = cc[i]; best = i;
-                    if (!bc) return false;
-                    if (bc < 2) break;
-                }
-            }
-            int r = R[best], c = C[best], b = (r / 3) * 3 + c / 3;
-            int mask = (~(row[r] | col[c] | box[b])) & 0x1ff;
-            while (mask) {
-                int pick = mask & -mask, d = __builtin_ctz(pick);
-                board[r][c] = d + '1'; row[r] |= pick; col[c] |= pick; box[b] |= pick;
-                recalc();
-                if (dfs(filled + 1)) return true;
-                board[r][c] = '.'; row[r] ^= pick; col[c] ^= pick; box[b] ^= pick;
-                recalc();
-                mask &= mask - 1;
-            }
-            return false;
-        };
-        dfs(0);
+        }
+        return false;
+    }
+
+    void solveSudoku(vector<vector<char>>& board) {
+        solve(board, 0, 0);
     }
 };
