@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
+| [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
