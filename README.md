@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Two Pointers
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Union-Find
