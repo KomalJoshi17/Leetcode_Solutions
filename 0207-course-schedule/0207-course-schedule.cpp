@@ -1,30 +1,48 @@
 class Solution {
 public:
-    bool dfs(int course,vector<vector<int>>&adj,vector<int>&visited) {
-        if(visited[course]==1) return false;
-        if(visited[course]==2) return true;
-        visited[course]=1;
-
-        for(int next:adj[course]) {
-            if (!dfs(next,adj,visited)) return false;
+    bool canFinish(int V, vector<vector<int>>& edges) {
+        vector<vector<int>>adj(V);
+        for(auto e:edges){
+            int u=e[0];
+            int v=e[1];
+            adj[u].push_back(v);
         }
-        visited[course]=2;
-        return true;
-    }
-
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>adj(numCourses);
-        for(auto &e:prerequisites) {
-            int a=e[0];
-            int b=e[1];
-            adj[b].push_back(a);
+        
+        vector<int>inDegree(V,0);
+        for(int i=0;i<V;i++){
+            for(auto node:adj[i]){
+                inDegree[node]++;
+            }
         }
-
-        vector<int>visited(numCourses,0);
-        for(int i=0;i<numCourses;i++){
-            if(!dfs(i,adj,visited)){
+        
+        vector<int>ans;
+        queue<int>q;
+        
+        for(int i=0;i<V;i++){
+            if(inDegree[i]==0){
+                q.push(i);
+            }
+        }
+        
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            
+            ans.push_back(node);
+            
+            for(auto neigh:adj[node]){
+                inDegree[neigh]--;
+                
+                if(inDegree[neigh]==0){
+                    q.push(neigh);
+                }
+            }
+        }
+        
+        for(int i=0;i<V;i++){
+            if(inDegree[i]!=0){
                 return false;
-            } 
+            }
         }
 
         return true;
