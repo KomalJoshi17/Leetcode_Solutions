@@ -8,22 +8,22 @@ public:
         visited[i][j]=true;
         
         for(auto& d:dir){
-            int x=i+d[0];
-            int y=j+d[1];
+            int ni=i+d[0];
+            int nj=j+d[1];
 
-            if(x<0 || x>=m || y<0 || y>=n){
+            if(ni<0 || ni>=m || nj<0 || nj>=n){
                 continue;
             } 
 
-            if(visited[x][y]){
+            if(visited[ni][nj]){
                 continue;
             }
 
-            if(heights[x][y] < heights[i][j]){
+            if(heights[ni][nj] < heights[i][j]){
                 continue;
             }
             
-            dfs(x,y,heights,visited);
+            dfs(ni,nj,heights,visited);
         }
     }
 
