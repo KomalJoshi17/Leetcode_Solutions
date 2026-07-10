@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0994-rotting-oranges](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 ## Binary Search
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 ## Math
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
