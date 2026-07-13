@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -516,10 +519,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
