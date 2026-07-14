@@ -1,29 +1,42 @@
 class Solution {
 public:
-    void dfs(int source, vector<vector<int>>&adj, vector<int>&vis){
-        vis[source]=1;
+    vector<int>p,r;
 
-        for(int e:adj[source]){
-            if(!vis[e]){
-                dfs(e,adj,vis);
-            }
-        }    
+    int find(int i){
+        if(p[i]==i) return i;
+        return p[i]=find(p[i]);
     }
 
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<vector<int>>adj(n);
+    void Union(int x, int y){
+        int px=find(x);
+        int py=find(y);
+
+        if(px==py) return;
+
+        if(r[px]>r[py]){
+            p[py]=px;
+        }else if(r[px]<r[py]){
+            p[px]=py;
+        }else{
+            p[py]=px;
+            r[px]++;
+        }
+    }
+
+    bool validPath(int n, vector<vector<int>>& edges, int s, int d) {
+        p.resize(n+1);
+        r.resize(n+1,1);
+
+        for(int i=0;i<n;i++){
+            p[i]=i;
+        }
 
         for(auto &e:edges){
             int u=e[0];
             int v=e[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            Union(u,v);
         }
 
-        vector<int>vis(n,0);
-        dfs(source,adj,vis);
-
-        return vis[destination];
+        return find(s)==find(d);
     }
 };
