@@ -35,17 +35,32 @@ public:
             p[i]=i;
         }
 
-        int ans=n;
+        // int ans=n;
+
+        // for(int i=0;i<n;i++){
+        //     for(int j=i+1;j<n;j++){
+        //         if(isConnected[i][j]==1){
+        //             if(Union(i,j)){
+        //                 ans--;
+        //             }
+        //         }
+        //     }
+        // }
+        // return ans;
 
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 if(isConnected[i][j]==1){
                     if(Union(i,j)){
-                        ans--;
                     }
                 }
             }
         }
-        return ans;
+        
+        unordered_set<int> leaders;
+        for(int i=0;i<n;i++){
+            leaders.insert(find(i)); 
+        }
+        return leaders.size();
     }
 };
