@@ -1,5 +1,3 @@
-// https://youtu.be/3vbBrl-LeDc?si=mzGzsymBmVn3Ypmp
-
 class Solution {
 public:
 
