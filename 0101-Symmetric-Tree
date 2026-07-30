@@ -1,3 +1,4 @@
+//Symmetric Tree
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
@@ -15,4 +16,3 @@ public:
         if(root==nullptr) return true;
         return isSameTree(root->left,root->right);
     }
-};
