@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
