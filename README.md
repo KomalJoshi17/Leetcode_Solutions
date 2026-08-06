@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0018-4sum/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -573,4 +575,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
