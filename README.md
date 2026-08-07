@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0065-valid-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0071-simplify-path/) | Medium |
