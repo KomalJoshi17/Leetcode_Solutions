@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -335,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
