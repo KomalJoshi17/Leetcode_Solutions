@@ -597,4 +597,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
