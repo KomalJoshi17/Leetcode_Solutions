@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0741-cherry-pickup](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Bit Manipulation
@@ -616,9 +619,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
