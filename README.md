@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0741-cherry-pickup](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
