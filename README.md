@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
