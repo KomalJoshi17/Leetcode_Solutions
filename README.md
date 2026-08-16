@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
