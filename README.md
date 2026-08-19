@@ -629,4 +629,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
