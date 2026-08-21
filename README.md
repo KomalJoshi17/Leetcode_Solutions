@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0585-investments-in-2016](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
