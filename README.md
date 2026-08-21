@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0185-department-top-three-salaries](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
