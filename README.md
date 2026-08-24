@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
