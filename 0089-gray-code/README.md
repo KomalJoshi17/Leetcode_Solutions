@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/gray-code/">89. Gray Code</a></h2><h3>Medium</h3><hr><p>An <strong>n-bit gray code sequence</strong> is a sequence of <code>2<sup>n</sup></code> integers where:</p>
+<h2><a href="https://leetcode.com/problems/gray-code">89. Gray Code</a></h2><h3>Medium</h3><hr><p>An <strong>n-bit gray code sequence</strong> is a sequence of <code>2<sup>n</sup></code> integers where:</p>
 
 <ul>
 	<li>Every integer is in the <strong>inclusive</strong> range <code>[0, 2<sup>n</sup> - 1]</code>,</li>
