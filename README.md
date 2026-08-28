@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -666,4 +669,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
