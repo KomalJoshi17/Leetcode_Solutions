@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0135-candy/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0179-largest-number/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
