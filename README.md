@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0313-super-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0313-super-ugly-number/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0313-super-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0313-super-ugly-number/) | Medium |
 | [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Dynamic Programming
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0313-super-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0313-super-ugly-number/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
