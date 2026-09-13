@@ -732,4 +732,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
