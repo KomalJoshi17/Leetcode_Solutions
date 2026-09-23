@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-gap">164. Maximum Gap</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the maximum difference between two successive elements in its sorted form</em>. If the array contains less than two elements, return <code>0</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-gap/">164. Maximum Gap</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the maximum difference between two successive elements in its sorted form</em>. If the array contains less than two elements, return <code>0</code>.</p>
 
 <p>You must write an algorithm that runs in linear time and uses linear extra space.</p>
 
