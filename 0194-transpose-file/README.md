@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/transpose-file">194. Transpose File</a></h2><h3>Medium</h3><hr><p>Given a text file <code>file.txt</code>, transpose its content.</p>
+<h2><a href="https://leetcode.com/problems/transpose-file/">194. Transpose File</a></h2><h3>Medium</h3><hr><p>Given a text file <code>file.txt</code>, transpose its content.</p>
 
 <p>You may assume that each row has the same number of columns, and each field is separated by the <code>&#39; &#39;</code> character.</p>
 
