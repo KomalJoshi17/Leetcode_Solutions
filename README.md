@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0179-largest-number/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
@@ -494,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -633,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -770,4 +775,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
