@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0741-cherry-pickup](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Bit Manipulation
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0179-largest-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -729,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
