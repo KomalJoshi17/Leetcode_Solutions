@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Bit Manipulation
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
