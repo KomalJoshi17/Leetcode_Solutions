@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -818,4 +819,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
