@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
