@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0313-super-ugly-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0313-super-ugly-number/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
