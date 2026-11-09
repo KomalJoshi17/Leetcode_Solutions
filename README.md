@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1905-count-sub-islands](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0068-text-justification/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -731,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
