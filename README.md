@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -779,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Database
 | Problem Name | Difficulty |
