@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Heap (Priority Queue)
@@ -966,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
@@ -987,4 +991,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
