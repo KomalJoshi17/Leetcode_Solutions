@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/KomalJoshi17/Leetcode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
